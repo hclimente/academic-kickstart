@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Software"
-  url = "#projects"
-  weight = 30
+  name = "Publications"
+  url = "#publications"
+  weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "Software"
+  url = "#packages"
+  weight = 30
 
 [[main]]
   name = "CV"
