@@ -18,7 +18,7 @@ organizations:
   url: "https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoctoral researcher of machine learning methods applied to human health.
 
 interests:
 - Machine learning

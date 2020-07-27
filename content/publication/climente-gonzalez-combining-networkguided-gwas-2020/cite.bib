@@ -1,0 +1,43 @@
+@techreport{climente-gonzalezCombiningNetworkguidedGWAS2020,
+ abstract = {Abstract
+
+Systems biology provides a comprehensive approach to biomarker discovery and biological hypothesis building. Indeed, it allows to jointly consider the statistical association between gene variation and a phenotype, and the biological context of each gene, represented as a network. In this work, we study six network methods which identify subnetworks with high association scores to a phenotype. Specifically, we examine their utility to discover new biomarkers for breast cancer susceptibility by interrogating a genome-wide association study (GWAS) focused on French women with a family history of breast cancer and tested negative for pathogenic variants in
+BRCA1
+and
+BRCA2
+. We perform an in-depth benchmarking of the methods with regards to size of the solution subnetwork, their utility as biomarkers, and the stability and the runtime of the methods. By trading statistical stringency for biological meaningfulness, most network methods give more compelling results than standard SNP- and gene-level analyses, recovering causal subnetworks tightly related to cancer susceptibility. For instance, we show a general alteration of the neighborhood of
+COPS5
+, a gene related to multiple hallmarks of cancer. Importantly, we find a significantly large overlap between the genes in the solution networks and the genes significantly associated in the largest GWAS on susceptibility to breast cancer. Yet, network methods are notably unstable, producing different results when the input data changes slightly. To account for that, we produce a stable consensus subnetwork, formed by the most consistently selected genes. The stable consensus is composed of 68 genes, enriched in known breast cancer susceptibility genes (
+BLM
+,
+CASP8
+,
+CASP10
+,
+DNAJC1
+,
+FGFR2
+,
+MRPS30
+, and
+SLC4A7
+, Fisher’s exact test P-value = 3 × 10
+-4
+) and occupying more central positions in the network than average. The network seems organized around
+CUL3
+, encoding an ubiquitin ligase related protein that regulates the protein levels of several genes involved in cancer progression. In conclusion, this article shows the pertinence of network-based analyses to tackle known issues with GWAS, namely lack of statistical power and of interpretable solutions. Project-agnostic implementations of each of the network methods are available at
+https://github.com/hclimente/gwas-tools
+to facilitate their application to other GWAS datasets.},
+ author = {Climente-González, Héctor and Lonjou, Christine and Lesueur, Fabienne and collaborators, GENESIS Study and Stoppa-Lyonnet, Dominique and Andrieu, Nadine and Azencott, Chloé-Agathe},
+ doi = {10.1101/2020.05.04.076661},
+ file = {Climente-González et al. - 2020 - Combining network-guided GWAS to discover suscepti.pdf:/Users/hclimente/Zotero/storage/4DC8CL5L/Climente-González et al. - 2020 - Combining network-guided GWAS to discover suscepti.pdf:application/pdf},
+ institution = {Genetics},
+ language = {en},
+ month = {May},
+ title = {Combining network-guided GWAS to discover susceptibility mechanisms for breast cancer},
+ type = {preprint},
+ url = {http://biorxiv.org/lookup/doi/10.1101/2020.05.04.076661},
+ urldate = {2020-07-27},
+ year = {2020}
+}
+
