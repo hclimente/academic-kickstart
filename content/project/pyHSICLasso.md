@@ -1,9 +1,9 @@
 ---
-title: martini
-subtitle: Network-based GWAS.
-summary: Network-based GWAS.
+title: pyHSICLasso
+subtitle: Non-linear feature selection.
+summary: Non-linear feature selection.
 date: "2018-06-28T00:00:00Z"
-tags: ["R", "package"]
+tags: ["Python", "package"]
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,13 +13,13 @@ featured: true
 
 links:
   - icon_pack: fab
-    icon: r-project
-    name: Bioconductor
-    url: 'https://www.bioconductor.org/packages/release/bioc/html/martini.html'
+    icon: python
+    name: PyPI
+    url: 'https://pypi.org/project/pyHSICLasso/'
   - icon_pack: fab
     icon: github
     name: Github
-    url: 'https://github.com/hclimente/martini'
+    url: 'https://github.com/riken-aip/pyHSICLasso'
 
 # Optional header image (relative to `static/img/` folder).
 header:
