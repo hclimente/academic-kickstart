@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   description = """
   [CBIO](http://cbio.ensmp.fr/) is a joint research team between [Mines ParisTech](https://www.mines-paristech.eu/) and [Institut Curie](https://www.institut-curie.org), devoted to applying machine learning to diagnosis and treatment of cancer.
 
-  In my thesis, [Network-guided genome-wide association studies](https://www.theses.fr/en/2020PSLEM001), I explore existing machine learning algorithms, and develop novel procedures, to better understand the genetics of cancer susceptibility. All those methods leverage on prior biological knowledge, model as a network, to boost discovery.
+  In my thesis, [Network-guided genome-wide association studies](https://www.theses.fr/en/2020PSLEM001), I explore existing machine learning algorithms, and develop novel procedures, to better understand the genetics of cancer susceptibility. All those methods leverage on prior biological knowledge, modeled as a network, to boost discovery.
   """
 
 [[experience]]
