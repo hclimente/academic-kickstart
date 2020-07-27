@@ -60,9 +60,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/hclimente
-- icon: cv
-  icon_pack: ai
-  link: files/hector_climente_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
