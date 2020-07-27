@@ -30,7 +30,7 @@ education:
   - course: PhD in Bioinformatics
     institution: Paris Sciences & Lettres
     year: 2020
-  - course: MSc in for Health Sciences
+  - course: MSc in Bioinformatics for Health Sciences
     institution: Pompeu Fabra University
     year: 2014	
   - course: BSc in Biochemistry
