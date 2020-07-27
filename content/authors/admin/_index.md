@@ -22,7 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Machine learning
-- Genomics & heritability
+- Genetics & heritability
+- Biological networks
 
 education:
   courses:
