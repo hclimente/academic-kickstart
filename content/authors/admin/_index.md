@@ -48,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:info@hclimente.eu
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hclimente/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hclimente
