@@ -16,6 +16,10 @@ links:
     icon: R
     name: Bioconductor
     url: 'https://www.bioconductor.org/packages/release/bioc/html/martini.html'
+  - icon_pack: fab
+    icon: github
+    name: Github
+    url: 'https://github.com/hclimente/martini'
 
 # Optional header image (relative to `static/img/` folder).
 header:
