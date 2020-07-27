@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  * Our current research interests are the application of optimal transport to problems in biology, with an emphasis on multi-omics data integration.
+  I am interested in the application of optimal transport to problems in biology, in particular multi-omics data integration.
   """
 
 [[experience]]
@@ -47,10 +47,8 @@ date_format = "Jan 2006"
   company_url = "http://http://www.anaxomics.com/"
   location = "Barcelona"
   date_start = "2014-09-01"
-  date_end = "2020-05-31"
-  description = """
-  Responsible for the development and maintenance of pipelines for the statistical treatment of omics data.
-  """
+  date_end = "2015-05-31"
+  description = """I was responsible for the development and maintenance of pipelines for the statistical treatment of omics data."""
 
 [[experience]]
   title = "Research assistant"
@@ -59,6 +57,6 @@ date_format = "Jan 2006"
   location = "Barcelona"
   date_start = "2013-12-01"
   date_end = "2016-08-31"
-  description = """Large-scale analysis of the involvement of alternative splicing in cancer."""
+  description = """We conducted a large-scale study on the involvement of alternative splicing in cancer."""
 
 +++
