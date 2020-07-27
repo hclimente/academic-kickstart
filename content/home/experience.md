@@ -25,11 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Our current research interests are the application of optimal transport to problems in biology, with an emphasis on multi-omics data integration.
   """
 
 [[experience]]
@@ -40,8 +36,8 @@ date_format = "Jan 2006"
   date_start = "2016-10-01"
   date_end = "2020-04-30"
   description = """
-  [CBIO](http://cbio.ensmp.fr/) is a joint research team between [Mines ParisTech](https://www.mines-paristech.eu/) and [Institut Curie](https://www.institut-curie.org) devoted to applying machine learning to diagnosis and treatment of cancer.
-
+  * [CBIO](http://cbio.ensmp.fr/) is a joint research team between [Mines ParisTech](https://www.mines-paristech.eu/) and [Institut Curie](https://www.institut-curie.org), devoted to applying machine learning to diagnosis and treatment of cancer.
+  * In my thesis, [Network-guided genome-wide association studies](https://www.theses.fr/en/2020PSLEM001), I explore existing machine learning algorithms, and develop novel procedures, to better understand the genetics of cancer susceptibility. All those methods leverage on prior biological knowledge, model as a network, to boost discovery.
   """
 
 [[experience]]
@@ -52,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2014-09-01"
   date_end = "2020-05-31"
   description = """
-  Responsible for the development and maintenance of pipelines for the statistical treatment of omics data.
+  * Responsible for the development and maintenance of pipelines for the statistical treatment of omics data.
   """
 
 [[experience]]
