@@ -13,7 +13,7 @@ featured: true
 
 links:
   - icon_pack: fab
-    icon: R
+    icon: r-project
     name: Bioconductor
     url: 'https://www.bioconductor.org/packages/release/bioc/html/martini.html'
   - icon_pack: fab
