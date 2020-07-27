@@ -3,7 +3,7 @@ title: gwas-tools
 subtitle: General purpose, dockerized pipelines for GWAS.
 summary: General purpose, dockerized pipelines for GWAS.
 date: "2018-06-28T00:00:00Z"
-tags: ["Python", "package"]
+tags: ["nextflow", "package"]
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
