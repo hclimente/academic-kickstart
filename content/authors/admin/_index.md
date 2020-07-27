@@ -72,4 +72,3 @@ user_groups:
 ---
 
 I am a postdoctoral researcher of machine learning methods applied to human health.
-I obatined my PhD at [Center for Computational Biology](http://cbio.ensmp.fr/), a joint research unit between [Mines ParisTech](https://www.mines-paristech.eu/) and [Institut Curie](https://www.institut-curie.org).

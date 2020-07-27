@@ -39,6 +39,29 @@ date_format = "Jan 2006"
   location = "Paris"
   date_start = "2016-10-01"
   date_end = "2020-04-30"
+  description = """
+  [CBIO](http://cbio.ensmp.fr/) is a joint research team between [Mines ParisTech](https://www.mines-paristech.eu/) and [Institut Curie](https://www.institut-curie.org) devoted to applying machine learning to diagnosis and treatment of cancer.
+
+  """
+
+[[experience]]
+  title = "Head of Biocomputing"
+  company = "Anaxomics"
+  company_url = "http://http://www.anaxomics.com/"
+  location = "Barcelona"
+  date_start = "2014-09-01"
+  date_end = "2020-05-31"
+  description = """
+  Responsible for the development and maintenance of pipelines for the statistical treatment of omics data.
+  """
+
+[[experience]]
+  title = "Research assistant"
+  company = "GRIB"
+  company_url = "http://http://comprna.upf.edu/"
+  location = "Barcelona"
+  date_start = "2013-12-01"
+  date_end = "2016-08-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
