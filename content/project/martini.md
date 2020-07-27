@@ -10,6 +10,12 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 featured: true
 
+links:
+  - icon_pack: fab
+    icon: R
+    name: Bioconductor
+    url: 'https://www.bioconductor.org/packages/release/bioc/html/martini.html'
+
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""

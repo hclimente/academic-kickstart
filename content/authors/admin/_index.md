@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Héctor Climente-González
+title: Héctor Climente
 
 # Username (this should match the folder name)
 authors:
