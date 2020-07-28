@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   location = "Barcelona"
   date_start = "2014-09-01"
   date_end = "2015-05-31"
-  description = """I was responsible for the development and maintenance of pipelines for the statistical treatment of omics data."""
+  description = """Anaxomics combines systems biology and machine learning to model human cells on which to perform *in silico* experiments. I was responsible for the development and maintenance of pipelines for the statistical treatment of omics data, whose results were to be included in the models."""
 
 [[experience]]
   title = "Research assistant"
@@ -57,6 +57,6 @@ date_format = "Jan 2006"
   location = "Barcelona"
   date_start = "2013-12-01"
   date_end = "2016-08-31"
-  description = """We conducted a large-scale study on the involvement of alternative splicing in cancer."""
+  description = """In a large-scale study supervised by [Eduardo Eyras](https://jcsmr.anu.edu.au/people/academics/professor-eduardo-eyras), we examined the involvement of alternative splicing on 11 different tumor types."""
 
 +++
