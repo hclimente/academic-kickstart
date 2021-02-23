@@ -25,7 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  I am interested in the application of optimal transport to problems in biology, in particular multi-omics data integration.
+  [RIKEN AIP](https://aip.riken.jp/) is a research center devoted to machine learning research.
+
+  I apply optimal transport to problems in GWAS and network biology, in particular multi-omics data integration. I also work on epistasis detection, and high-content drug screening using deep learning.
   """
 
 [[experience]]
