@@ -72,7 +72,14 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher the [High-Dimensional Statistical Modeling Team](https://www.riken.jp/en/research/labs/aip/generic_tech/highdim_stat_model/), led by [Makoto Yamada](https://riken-yamada.github.io/). 
+I am a postdoctoral researcher at the High-Dimensional Statistical Modeling Team, led by Makoto Yamada.
 
-I am interested in bridging the gap between advancements in computer science, most prominently machine learning, and research in biology. In particular, but not exclusively, I study the discordance between the genetic causes of a disease, and the small number of genetic factors we can actually associate with it (aka [missing heritability](https://en.wikipedia.org/wiki/Missing_heritability_problem)). Complex diseases like familial breast cancer or Alzheimer's disease are studied through [genome-wide association studies](https://en.wikipedia.org/wiki/Genome-wide_association_study). I develop procedures that complement data from these studies with prior knowledge of the disease, with the goal of boosting discovery and selecting more robust features. Ultimately, my objective is to recover interpretable markers of disease which are useful for diagnosis, treatment, and to better understand the biology of the disease.
+My goal is to find genetic predictors of disease that are useful for diagnosis, treatment, and understanding the disease's biology. Traditionally, complex diseases like Alzheimer's disease are studied through genome-wide association studies (GWAS). However, conventional GWAS have failed to find a significant share of those genetic causes. I am interested in closing this gap by researching machine learning methods that extract more information from GWAS. Specifically, I superimpose GWAS information onto biological networks. Then, I explore such networks considering both the statistical association of each genetic factor - obtained from GWAS - and the biological context - obained from the network. However, there are many open questions about how to do this, for instance:
+
+- How to exactly integrate GWAS information with networks?
+- What is the right strategy to find truly associated genetic factors? Which underlying assumtions are justified?
+- What sources of information should we consider when building those networks?
+- What is the suitable resolution? The SNP? The gene? The pathway?
+
+My hybrid profile as both a machine learning researcher and a statistical geneticist put me in a priviledged position to tackle such questions
 
