@@ -45,12 +45,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Head of Biocomputing"
-  company = "Anaxomics"
+  company = "Anaxomics Biotech Ltd."
   company_url = "http://www.anaxomics.com/"
   location = "Barcelona"
   date_start = "2014-09-01"
   date_end = "2015-05-31"
-  description = """Anaxomics combines systems biology and machine learning to model human cells on which to perform *in silico* experiments. I was responsible for the development and maintenance of pipelines for the statistical treatment of omics data, whose results were to be included in the models."""
+  description = """Anaxomics combines systems biology and machine learning to model human cells on which to perform *in silico* experiments. I was responsible for developing and maintaining pipelines for the statistical treatment of omics data, whose results were to be included in the models."""
 
 [[experience]]
   title = "Research assistant"
