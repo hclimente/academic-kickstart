@@ -6,7 +6,7 @@ active = true # Activate this widget? true/false
 weight = 70 # Order that this section will appear.
 
 title = "Packages"
-subtitle = ""
+subtitle = "For more details, visit my [GitHub](https://github.com/hclimente)"
 
 [content]
   # Page type to display. E.g. project.

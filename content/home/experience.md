@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Selected experience"
-subtitle = "A detailed recount is available on [LinkedIn](https://www.linkedin.com/in/hclimente/)"
+subtitle = "For more details, visit my [LinkedIn](https://www.linkedin.com/in/hclimente/)"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
