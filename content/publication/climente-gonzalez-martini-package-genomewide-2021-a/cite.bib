@@ -1,0 +1,36 @@
+@techreport{climente-gonzalezMartiniPackageGenomewide2021a,
+ abstract = {Abstract
+
+Systems biology shows that genes related to the same phenotype are often functionally related. We can take advantage of this to discover new genes that affect a phenotype. However, the natural unit of analysis in genome-wide association studies (GWAS) is not the gene, but the single nucleotide polymorphism, or SNP. We introduce
+martini
+, an R package to build SNP co-function networks and use them to conduct GWAS. In SNP networks, two SNPs are connected if there is evidence they jointly contribute to the same biological function. By leveraging such information in GWAS, we search SNPs that are not only strongly associated with a phenotype, but also functionally related. This, in turn, boosts discovery and interpretability.
+Martini
+builds such networks using three sources of information: genomic position, gene annotations, and gene-gene interactions. The resulting SNP networks involve hundreds of thousands of nodes and millions of edges, making their exploration computationally intensive.
+Martini
+implements two network-guided biomarker discovery algorithms based on graph cuts that can handle such large networks: SConES and SigMod. They both seek a small subset of SNPs with high association scores with the phenotype of interest and densely interconnected in the network. Both algorithms use parameters that control the relative importance of the SNPs’ association scores, the number of SNPs selected, and their interconnection.
+Martini
+includes a cross-validation procedure to set these parameters automatically. Lastly,
+martini
+includes tools to visualize the selected SNPs’ network and association properties.
+Martini
+is available on GitHub (
+hclimente/martini
+) and Bioconductor (
+martini
+).},
+ author = {Climente-González, Héctor and Azencott, Chloé-Agathe},
+ copyright = {All rights reserved},
+ doi = {10.1101/2021.01.25.428047},
+ file = {2021_Climente-González_Azencott_martini.pdf:/Users/hclimente/Documents/papers/2021_Climente-González_Azencott_martini2.pdf:application/pdf},
+ institution = {Bioinformatics},
+ language = {en},
+ month = {January},
+ note = {00000 },
+ shorttitle = {martini},
+ title = {martini: an R package for genome-wide association studies using SNP networks},
+ type = {preprint},
+ url = {http://biorxiv.org/lookup/doi/10.1101/2021.01.25.428047},
+ urldate = {2021-02-25},
+ year = {2021}
+}
+
