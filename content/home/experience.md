@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   [RIKEN AIP](https://aip.riken.jp/) is a research center devoted to machine learning research.
 
-  I apply optimal transport to problems in GWAS and network biology, in particular multi-omics data integration. I also work on epistasis detection, and high-content drug screening using deep learning.
+  I develop machine learning methods to discover the genetics of complex phenotypes in the UK Biobank. Specifically, I focus on deep learning and non-linear feature selection methods.
   """
 
 [[experience]]
