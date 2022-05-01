@@ -48,19 +48,19 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: ai
   link: mailto:info@hclimente.eu
 - icon: linkedin
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.linkedin.com/in/hclimente/
 - icon: twitter
-  icon_pack: fab
+  icon_pack: ai
   link: https://twitter.com/hclimente
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tK7i7zwAAAAJ
 - icon: github
-  icon_pack: fab
+  icon_pack: ai
   link: https://github.com/hclimente
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
